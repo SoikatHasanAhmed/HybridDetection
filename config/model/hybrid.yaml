@@ -1,0 +1,13 @@
+defaults:
+  - base
+
+name: hybrid
+backbone:
+  name: v1_attention
+fpn:
+  name: ???
+head:
+  name: ???
+postprocess:
+  confidence_threshold: 0.1
+  nms_threshold: 0.45

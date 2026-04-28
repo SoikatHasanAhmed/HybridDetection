@@ -1,0 +1,6 @@
+defaults:
+  - general
+  - dataset: ???
+  - model: hybrid
+  - optional experiment/${dataset}: small
+  - optional model/dataset: ${model}_${dataset}
