@@ -22,7 +22,7 @@ uv sync
 source .venv/bin/activate
 ```
 
-The main dependencies are specified in `pyproject.toml`. A `requirements.txt` file is also provided for environments that do not use `uv`.
+The main dependencies are specified in `pyproject.toml`.
 
 ## Datasets
 
