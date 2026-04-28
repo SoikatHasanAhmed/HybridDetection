@@ -1,8 +1,9 @@
-# Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial Attention
+#Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention
 
-Official PyTorch implementation for **Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial Attention**.
+Official PyTorch implementation for **Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial
+and Temporal Attention**.
 
-This repository provides training and evaluation code for event-camera object detection on the Prophesee Gen1 and Gen4 datasets. The model combines hybrid neural network components with spatial attention and YOLOX-style detection heads.
+This repository provides training and evaluation code for event-camera object detection on the Prophesee Gen1 and Gen4 datasets.
 
 ## Overview
 
@@ -85,7 +86,7 @@ If you find this work useful, please cite:
 
 ```bibtex
 @inproceedings{ahmed2025efficient,
-  title={Efficient event-based object detection: a hybrid neural network with spatial and temporal attention},
+  title={Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention},
   author={Ahmed, Soikat Hasan and Finkbeiner, Jan and Neftci, Emre},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={13970--13979},
