@@ -1,4 +1,4 @@
-#Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention
+# Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention
 
 Official PyTorch implementation for **Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial
 and Temporal Attention**.
