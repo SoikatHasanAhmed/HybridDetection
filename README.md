@@ -42,7 +42,7 @@ Pretrained checkpoints are available from [Google Drive](https://drive.google.co
 
 Reported checkpoint results:
 
-| Dataset | Checkpoint | Test AP |
+| Dataset | Checkpoint | Test mAP |
 | --- | --- | --- |
 | Gen1 | `ckpt_files/gen1/gen1_mAP36.ckpt` | 0.36 |
 | Gen4 | `ckpt_files/gen4/gen4_mAP29.ckpt` | 0.29 |
