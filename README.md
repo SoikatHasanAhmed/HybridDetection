@@ -75,13 +75,7 @@ The main Python entry points are:
 
 This repository builds on ideas and code from the following projects:
 
-- [YOLOX](https://github.com/Megvi@inproceedings{ahmed2025efficient,
-  title={Efficient event-based object detection: a hybrid neural network with spatial and temporal attention},
-  author={Ahmed, Soikat Hasan and Finkbeiner, Jan and Neftci, Emre},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={13970--13979},
-  year={2025}
-}i-BaseDetection/YOLOX), for the detection head and PAFPN components.
+- [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX), for the detection head and PAFPN components.
 - [RVT](https://github.com/uzh-rpg/RVT), for event-camera object detection infrastructure and preprocessed dataset support.
 
 We thank the authors of these projects for releasing their code and datasets.
